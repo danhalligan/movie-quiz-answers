@@ -1,6 +1,5 @@
 ---
 title: "Dan's Lockdown Movie Studio Quiz Round Answers"
-author: Dan
 date: 10 April 2020
 output:
   revealjs::revealjs_presentation:
