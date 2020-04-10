@@ -1,0 +1,47 @@
+---
+title: "Dan's Lockdown Movie Studio Quiz Round Answers"
+author: Dan
+date: 10 April 2020
+output:
+  revealjs::revealjs_presentation:
+    self_contained: false
+    lib_dir: libs
+    theme: black
+autosize: true
+---
+
+## Answer 1
+<video controls><source src="1 Castle Rock.mp4" type="video/mp4"></video>
+
+## Answer 2
+<video controls><source src="2 Columbia.mp4" type="video/mp4"></video>
+
+## Answer 3
+<video controls><source src="3 Dreamworks.mp4" type="video/mp4"></video>
+
+## Answer 4
+<video controls><source src="4 New Line Cinema.mp4" type="video/mp4"></video>
+
+## Answer 5
+<video controls><source src="5 Paramount.mp4" type="video/mp4"></video>
+
+## Answer 6
+<video controls><source src="6 Jerry Bruckheimer FIlms.mp4" type="video/mp4"></video>
+
+## Answer 7
+<video controls><source src="7 Lionsgate.mp4" type="video/mp4"></video>
+
+## Answer 8
+<video controls><source src="8 Universal.mp4" type="video/mp4"></video>
+
+## Answer 9
+<video controls><source src="9 Walt Disney Pictures.mp4" type="video/mp4"></video>
+
+## Answer 10
+<video controls><source src="10 Warner Bros Pictures.mp4" type="video/mp4"></video>
+
+## Answer 11
+<video controls><source src="11 Fox Searchlight Pictures.mp4" type="video/mp4"></video>
+
+## Answer 12
+<video controls><source src="12 Miramax.mp4" type="video/mp4"></video>
